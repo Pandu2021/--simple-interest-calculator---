@@ -1,4 +1,3 @@
-# --simple-interest-calculator---
 #!/bin/bash
 # Simple Interest Calculator
 
